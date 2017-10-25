@@ -7,11 +7,17 @@ h1 {
 
 h2 {
   font-family: 'Raleway', sans-serif;
-  color: #ffff80;
+  color: #bc14ab;
   font-size: 50px;
   Line-height:0.5;
   }
 
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #0e3d93;
+  font-size: 30px;
+  Line-height:0.5;
+  }
 body {
   font-family: 'Raleway', sans-serif;
   color: #ffff80;
@@ -23,10 +29,6 @@ body {
   Line-height:1.5;
   }
 
-img.rotateimg180 {
-  -webkit-transform:rotate(180deg);
-  -moz-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  transform: rotate(180deg);
+  ul {
+    color: #ffff80;
   }
